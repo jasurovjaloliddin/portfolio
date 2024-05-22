@@ -308,7 +308,6 @@ color: var(--nav-color);
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    margin-right: -2rem;
 }
 .latest-Posts__item {
     max-width: 369px;
